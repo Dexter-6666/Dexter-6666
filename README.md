@@ -35,8 +35,6 @@
 
 <div align="center">
 
-### `// WHO_AM_I.sh`
-
 </div>
 
 ```python
