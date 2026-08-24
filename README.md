@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:0a0a14&height=3&section=header" width="100%"/>
-
-</div>
-
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  SILENT TECH · DEXTER-6666 · GITHUB PROFILE README                         ║
@@ -11,26 +7,24 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  ███████╗██╗██╗     ███████╗███╗   ██╗████████╗                │
-│  ██╔════╝██║██║     ██╔════╝████╗  ██║╚═██╔══╝                │
+│  ██╔════╝██║██║     ██╔════╝████╗  ██║╚══██╔══╝                │
 │  ███████╗██║██║     █████╗  ██╔██╗ ██║   ██║                   │
 │  ╚════██║██║██║     ██╔══╝  ██║╚██╗██║   ██║                   │
-│  ███████║██║█████   ██████  ██║ ╚████║   ██║                   │
+│  ███████║██║██████  ██████╗██║ ╚████║   ██║                   │
 │  ╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   TECH           │
 │                                                                  │
-│  [ NEURAL·INTERFACE·v23.0.0 ] ── [ SYS: ONLINE ] ── [ ID: DX6 ]│
+│  [ NEURAL·INTERFACE·v23.0.0 ] ── [ SYS: ONLINE ] ── [ DX-6666 ]│
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FFE7&center=true&vCenter=true&width=600&lines=INITIALIZING+PROFILE+SEQUENCE...;FULL-STACK+DEVELOPER+%2F%2F+WEB+ENGINEER;PYTHON+%7C+NODE.JS+%7C+HTML+%7C+CSS;BUILDING+SYSTEMS+THAT+OUTLAST+THEIR+ERA;STATUS%3A+COMMITTED+TO+THE+CRAFT" alt="Terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FFE7&center=true&vCenter=true&width=650&lines=INITIALIZING+PROFILE+SEQUENCE...;FULL-STACK+DEVELOPER+%2F%2F+WEB+ENGINEER;PYTHON+%7C+NODE.JS+%7C+HTML+%7C+CSS;BUILDING+SYSTEMS+THAT+OUTLAST+THEIR+ERA;STATUS%3A+COMMITTED+TO+THE+CRAFT" alt="Terminal typing" />
 
 <br/>
 
-![](https://img.shields.io/badge/CLASS-FULL__STACK__ENGINEER-00FFE7?style=flat-square&labelColor=050508&color=00FFE7&logoColor=00FFE7)
+![](https://img.shields.io/badge/CLASS-FULL__STACK__ENGINEER-00FFE7?style=flat-square&labelColor=050508&color=00FFE7)
 ![](https://img.shields.io/badge/STATUS-ONLINE-00FFE7?style=flat-square&labelColor=050508)
 ![](https://img.shields.io/badge/ERA-2300-7B2FFF?style=flat-square&labelColor=050508)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dexter-6666&style=flat-square&color=00FFE7&label=SCANS&labelColor=050508)](https://github.com/Dexter-6666)
@@ -61,7 +55,7 @@ class Developer:
         return {
             "currently_working_on" : "AI-powered web tools & backend APIs",
             "currently_learning"   : "System design, WebSockets, Docker",
-            "goals_2024"           : "Ship 3 production-ready projects",
+            "goals_2300"           : "Ship 3 production-ready projects",
             "fun_fact"             : "I debug by intuition, document by discipline"
         }
 
@@ -98,7 +92,7 @@ print(me.status())
 ![Linux](https://img.shields.io/badge/Linux-050508?style=flat-square&logo=linux&logoColor=00FFE7)
 ![Git](https://img.shields.io/badge/Git-050508?style=flat-square&logo=git&logoColor=F05032)
 ![Nginx](https://img.shields.io/badge/Nginx-050508?style=flat-square&logo=nginx&logoColor=00FFE7)
-![WebSockets](https://img.shields.io/badge/WebSockets-050508?style=flat-square&logo=socket.io&logoColor=00FFE7)
+![WebSockets](https://img.shields.io/badge/WebSockets-050508?style=flat-square&logo=socketdotio&logoColor=00FFE7)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-050508?style=flat-square&logo=postman&logoColor=00FFE7)
 
 </div>
@@ -125,58 +119,61 @@ print(me.status())
 ![FastAPI](https://img.shields.io/badge/FastAPI-050508?style=flat-square&logo=fastapi&logoColor=00FFE7)
 ![Redis](https://img.shields.io/badge/Redis-050508?style=flat-square&logo=redis&logoColor=FF4444)
 ![Docker](https://img.shields.io/badge/Docker-050508?style=flat-square&logo=docker&logoColor=00FFE7)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FFE7?style=flat-square&labelColor=050508)
+![Status](https://img.shields.io/badge/ACTIVE-00FFE7?style=flat-square&labelColor=050508)
 
 ---
 
 ### `[02]` — Node Automation Engine
 
-> Server-side task automation system built with Node.js and Express. Handles scheduled jobs, webhook pipelines, and file processing workflows. Includes a live dashboard built in pure HTML/CSS.
+> Server-side task automation built with Node.js and Express. Handles scheduled jobs, webhook pipelines, and file processing workflows. Includes a live dashboard in pure HTML/CSS.
 
 ![Node.js](https://img.shields.io/badge/Node.js-050508?style=flat-square&logo=nodedotjs&logoColor=00FFE7)
 ![Express](https://img.shields.io/badge/Express-050508?style=flat-square&logo=express&logoColor=00FFE7)
 ![HTML5](https://img.shields.io/badge/HTML5-050508?style=flat-square&logo=html5&logoColor=00FFE7)
 ![CSS3](https://img.shields.io/badge/CSS3-050508?style=flat-square&logo=css3&logoColor=00FFE7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-050508?style=flat-square&logo=mongodb&logoColor=00FFE7)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FFE7?style=flat-square&labelColor=050508)
+![Status](https://img.shields.io/badge/ACTIVE-00FFE7?style=flat-square&labelColor=050508)
 
 ---
 
 ### `[03]` — CSS Design System
 
-> A zero-dependency component library in pure HTML and CSS. Dark-first, mobile-first, accessible. Ships as a single stylesheet. No JavaScript. No build step. Just CSS doing what CSS was meant to do.
+> Zero-dependency component library in pure HTML and CSS. Dark-first, mobile-first, accessible. Ships as a single stylesheet. No JavaScript. No build step. Just CSS doing what it was made to do.
 
 ![HTML5](https://img.shields.io/badge/HTML5-050508?style=flat-square&logo=html5&logoColor=00FFE7)
 ![CSS3](https://img.shields.io/badge/CSS3-050508?style=flat-square&logo=css3&logoColor=00FFE7)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FFE7?style=flat-square&labelColor=050508)
+![Status](https://img.shields.io/badge/ACTIVE-00FFE7?style=flat-square&labelColor=050508)
 ![Version](https://img.shields.io/badge/v2.1.0-7B2FFF?style=flat-square&labelColor=050508)
 
 ---
 
 ### `[04]` — CLI Task Manager
 
-> Terminal-based productivity system written in Python. Manages tasks, tracks deadlines, and exports to JSON/CSV. Uses Rich for beautiful terminal UI. Installable via pip.
+> Terminal-based productivity system written in Python. Manages tasks, tracks deadlines, exports to JSON/CSV. Uses Rich for beautiful terminal UI. Installable via pip.
 
 ![Python](https://img.shields.io/badge/Python-050508?style=flat-square&logo=python&logoColor=00FFE7)
 ![CLI](https://img.shields.io/badge/CLI-050508?style=flat-square&logo=gnometerminal&logoColor=00FFE7)
 ![Rich](https://img.shields.io/badge/Rich_TUI-050508?style=flat-square&logo=python&logoColor=7B2FFF)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FFE7?style=flat-square&labelColor=050508)
+![Status](https://img.shields.io/badge/ACTIVE-00FFE7?style=flat-square&labelColor=050508)
 
 ---
 
 ## ⬡ Metrics
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dexter-6666&show_icons=true&theme=github_dark&hide_border=true&bg_color=050508&title_color=00FFE7&icon_color=7B2FFF&text_color=E8F4FF&ring_color=00FFE7&include_all_commits=true&count_private=true"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-6666&layout=compact&theme=github_dark&hide_border=true&bg_color=050508&title_color=00FFE7&text_color=E8F4FF&langs_count=6"/>
-
-</div>
+<!-- 
+  STATS: Uses WakaTime + Codecov style widgets that don't require stars/forks.
+  Streak uses streak-stats which works even for brand-new accounts.
+  Activity graph works from day 1.
+-->
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter-6666&theme=github-dark-blue&hide_border=true&background=050508&stroke=00FFE7&ring=7B2FFF&fire=00FFE7&currStreakLabel=00FFE7&dates=888888&sideNums=E8F4FF&currStreakNum=00FFE7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dexter-6666&show_icons=true&theme=github_dark&hide_border=true&bg_color=050508&title_color=00FFE7&icon_color=7B2FFF&text_color=E8F4FF&count_private=true&include_all_commits=true&custom_title=SYSTEM+METRICS"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-6666&layout=compact&theme=github_dark&hide_border=true&bg_color=050508&title_color=00FFE7&text_color=E8F4FF&langs_count=6&custom_title=LANGUAGE+MATRIX"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Dexter-6666&theme=dark&hide_border=true&background=050508&stroke=00FFE7&ring=7B2FFF&fire=00FFE7&currStreakLabel=00FFE7&dates=555555&sideNums=E8F4FF&currStreakNum=00FFE7&sideLabels=888888&border=00FFE7"/>
 
 </div>
 
@@ -186,17 +183,19 @@ print(me.status())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexter-6666&bg_color=050508&color=00FFE7&line=7B2FFF&point=00FFE7&area_color=7B2FFF&area=true&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS" width="100%"/>
+[![Dexter-6666's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexter-6666&bg_color=050508&color=00FFE7&line=7B2FFF&point=00FFE7&area_color=7B2FFF&area=true&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/Dexter-6666)
 
 </div>
 
 ---
 
-## ⬡ Trophies
+## ⬡ Snake — Commit History
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dexter-6666&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
+> **Setup required — run the GitHub Action below once to generate the snake animation**
+
+[![Snake animation](https://raw.githubusercontent.com/Dexter-6666/Dexter-6666/output/github-snake-dark.svg)](https://github.com/Dexter-6666)
 
 </div>
 
@@ -235,7 +234,7 @@ STATUS: [████████░░░░] 62% COMPLETE
 └────────────────────────────────────────┘
 ```
 
-[![Send Message](https://img.shields.io/badge/SEND_MESSAGE-edenj7464%40gmail.com-050508?style=for-the-badge&logo=gmail&logoColor=00FFE7&labelColor=050508)](mailto:edenj7464@gmail.com)
+[![Email](https://img.shields.io/badge/SEND_MESSAGE-edenj7464%40gmail.com-050508?style=for-the-badge&logo=gmail&logoColor=00FFE7&labelColor=050508)](mailto:edenj7464@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Dexter--6666-050508?style=for-the-badge&logo=github&logoColor=00FFE7&labelColor=050508)](https://github.com/Dexter-6666)
 
 </div>
@@ -243,8 +242,6 @@ STATUS: [████████░░░░] 62% COMPLETE
 ---
 
 <div align="center">
-
-<sub>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -256,7 +253,5 @@ STATUS: [████████░░░░] 62% COMPLETE
 ![](https://img.shields.io/badge/Made_with-Precision-00FFE7?style=flat-square&labelColor=050508)
 ![](https://img.shields.io/badge/Not-Vibe_Coded-7B2FFF?style=flat-square&labelColor=050508)
 ![](https://img.shields.io/badge/Era-2300-050508?style=flat-square&labelColor=7B2FFF&color=00FFE7)
-
-</sub>
 
 </div>
